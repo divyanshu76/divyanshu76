@@ -37,4 +37,3 @@ Hi, I’m Divyanshu 👋<br>A passionate Web Developer, AI Explorer & Digital En
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Divyanshuverma596) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
