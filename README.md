@@ -9,98 +9,74 @@
 </p>
 
 ---
-
 # 💫 About Me
 
 Hi, I’m **Divyanshu** 👋  
 A passionate **Web Developer, AI Explorer & Digital Entrepreneur** from India 🇮🇳  
 
-💻 I specialize in building professional websites using **WordPress & Elementor**, especially for service-based businesses.  
-🛒 I run and manage **e-commerce & dropshipping brands (Trend Vault)**.  
-🤖 Exploring **AI tools, automation & voice agents**.  
-🎥 Creating **Hinglish YouTube content** on AI & Online Earning.  
+💻 I build high-converting websites using WordPress & Elementor  
+🛒 Founder of e-commerce brand **Trend Vault**  
+🤖 Exploring AI Automation, Chatbots & Voice Agents  
+🎥 Creating Hinglish YouTube content about AI & Online Growth  
 
-✨ My mission is to build smart digital products and help people grow online 🚀  
-
----
-
-## 🛠️ Skills & Expertise
-
-✅ WordPress / Elementor  
-✅ HTML / CSS / Basic JavaScript  
-✅ Shopify / Dropshipping  
-✅ AI Tools & Voice Agents  
-✅ SEO & Digital Marketing  
-✅ Content Creation  
+✨ My goal: Build smart digital products that help people grow online 🚀  
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack & Tools
 
-📌 AI Automation  
-📌 App Development  
-📌 Advanced Marketing  
-📌 SaaS Tools  
-
----
-
-## ❤️ Hobbies & Interests
-
-🎧 Listening Music  
-📚 Learning New Tech  
-🎯 Business Ideas  
-🎬 Making Content  
-🌍 Helping Others  
-
----
-
-## 🌐 Connect With Me
-
-📩 Email: **divyanshuverma2902@gmail.com**  
-📸 Instagram: [@truly_divyanshu](https://instagram.com/truly_divyanshu)  
-💼 LinkedIn: Coming Soon  
-🎥 YouTube: Supershorts  
-
-Let’s collaborate and build something amazing together 🤝🔥  
-
----
-
-## 💻 Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🌐 Web Development
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=wordpress&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### ⚡ Frontend & App
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+### 🛒 E-Commerce
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat&logo=shopify&logoColor=white)
+
+### 🤖 AI & Automation
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+### 🎨 Design & Content
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=divyanshu76&theme=gotham)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=divyanshu76&theme=gotham)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu76&layout=compact&theme=gotham)
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu76&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu76&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu76&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=divyanshu76&theme=radical)
-
----
-
-## ✍️ Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=divyanshu76&theme=tokyonight&margin-w=10&margin-h=10)
 
 ---
 
-## 💰 Support My Work
+## 🌐 Connect With Me
 
-If you like my work, you can support me 💙  
+📩 Email: divyanshuverma2902@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/divyanshuverma09  
+📸 Instagram: https://instagram.com/truly_divyanshu  
+🎥 YouTube: https://youtube.com/@supershorts2006  
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/@Divyanshuverma596)
+Let’s build something powerful together 🤝🔥  
 
 ---
 
@@ -113,5 +89,8 @@ If you like my work, you can support me 💙
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Divyanshuverma596) 
+  ### 💳 UPI
+  **UPI ID:**  
+   divyanshuverma2902-2@okicici
 
   
