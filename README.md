@@ -15,8 +15,7 @@ Hi, I’m **Divyanshu** 👋
 A passionate **Web Developer, AI Explorer & Digital Entrepreneur** from India 🇮🇳  
 
 💻 I build high-converting websites using WordPress Elementor & VS Code 
-
-🛒 Founder of e-commerce brand **Trend Vault**  
+🛒 Founder of e-commerce brand **TrendsVault**  
 🤖 Exploring AI Automation, Chatbots & Voice Agents  
 🎥 Creating Hinglish YouTube content about AI & Online Growth  
 
