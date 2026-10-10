@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/divyanshuverma09/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
   </a>
-  <a href="mailto:divyanshuverma2902@gmail.com">
+  <a href="mailto:divyanshu@deadcode.space">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
   </a>
 
