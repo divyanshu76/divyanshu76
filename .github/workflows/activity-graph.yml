@@ -1,0 +1,34 @@
+
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: divyanshu76
+          options: "theme=tokyo-night&hide_border=true&area=true&custom_title=Purple%20Contribution%20Activity&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=8B5CF6&area_color=6D28D9&title_color=A78BFA"
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/activity-graph.svg
+          git commit -m "Update contribution activity graph" || exit 0
+          git push
