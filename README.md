@@ -500,17 +500,29 @@ Additional coding profiles such as LeetCode, GeeksforGeeks, HackerRank, and Code
 <div align="center">
 
   <a href="https://github.com/divyanshu76">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu76&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+    <img
+      width="100%"
+      src="https://raw.githubusercontent.com/divyanshu76/divyanshu76/main/profile/activity-graph.svg"
+      alt="Divyanshu's GitHub Contribution Activity Graph"
+    />
   </a>
 
-  <br/><br/>
+<br/><br/>
+
+  <a href="https://github.com/divyanshu76?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore-My%20Repositories-4338CA?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore My Repositories"
+    />
+  </a>
+
+<br/><br/>
 
   <a href="https://github.com/divyanshu76">
     View the official contribution calendar on GitHub
   </a>
 
 </div>
-
 ---
 
 ## 12. 🐍 Contribution Snake
