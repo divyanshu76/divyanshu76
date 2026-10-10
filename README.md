@@ -512,7 +512,7 @@ open_to:
   <a href="https://deadcode.space">
     <img src="https://img.shields.io/badge/Portfolio-DEADCODE%20LABS-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="DeadCode Labs portfolio"/>
   </a>
-
+ 
   <br/><br/>
 
   **Email:** [divyanshuverma2902@gmail.com](mailto:divyanshu@deadcode.space)
