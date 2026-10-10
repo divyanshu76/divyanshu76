@@ -515,7 +515,7 @@ open_to:
 
   <br/><br/>
 
-  **Email:** [divyanshuverma2902@gmail.com](mailto:divyanshuverma2902@gmail.com)
+  **Email:** [divyanshuverma2902@gmail.com](mailto:divyanshu@deadcode.space)
 
   **Portfolio:** [deadcode.space](https://deadcode.space)
 
