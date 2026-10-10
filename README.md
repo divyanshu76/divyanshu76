@@ -500,7 +500,7 @@ open_to:
 
   <br/><br/>
 
-  <a href="mailto:divyanshuverma2902@gmail.com">
+  <a href="mailto:divyanshu@deadcode.space">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Divyanshu"/>
   </a>
   <a href="https://www.linkedin.com/in/divyanshuverma09/">
@@ -515,7 +515,7 @@ open_to:
  
   <br/><br/>
 
-  **Email:** [divyanshuverma2902@gmail.com](mailto:divyanshu@deadcode.space)
+  **Email:** [divyanshu@deadcode.space](mailto:divyanshu@deadcode.space)
 
   **Portfolio:** [deadcode.space](https://deadcode.space)
 
