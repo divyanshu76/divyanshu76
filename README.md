@@ -447,19 +447,25 @@ Additional coding profiles such as LeetCode, GeeksforGeeks, HackerRank, and Code
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshu76&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshu76&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu76&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
 
   <br/><br/>
 
   <a href="https://github.com/divyanshu76">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu76&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&custom_title=Purple%20Contribution%20Activity" alt="Purple GitHub contribution activity graph"/>
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu76&theme=tokyo-night&hide_border=true&area=true&custom_title=Purple%20Contribution%20Activity" alt="Purple GitHub contribution activity graph"/>
   </a>
 
   <br/><br/>
 
   <img width="80%" src="https://streak-stats.demolab.com?user=divyanshu76&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" alt="GitHub contribution streak"/>
+
+  <br/><br/>
+
+  <a href="https://github.com/divyanshu76">
+    <img src="https://img.shields.io/badge/View-Official%20GitHub%20Contributions-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View official GitHub contributions"/>
+  </a>
 
 </div>
 
@@ -469,7 +475,15 @@ Additional coding profiles such as LeetCode, GeeksforGeeks, HackerRank, and Code
 
 <div align="center">
 
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=divyanshu76&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
+  <a href="https://github.com/divyanshu76">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=divyanshu76&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/divyanshu76?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
 
 </div>
 
@@ -480,7 +494,13 @@ Additional coding profiles such as LeetCode, GeeksforGeeks, HackerRank, and Code
 <div align="center">
 
   <a href="https://github.com/divyanshu76">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu76&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Purple GitHub contribution activity graph"/>
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu76&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/divyanshu76">
+    View the official contribution calendar on GitHub
   </a>
 
 </div>
@@ -491,7 +511,11 @@ Additional coding profiles such as LeetCode, GeeksforGeeks, HackerRank, and Code
 
 <div align="center">
 
-  <img width="100%" src="https://raw.githubusercontent.com/divyanshu76/divyanshu76/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshu76/divyanshu76/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshu76/divyanshu76/output/github-contribution-grid-snake.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/divyanshu76/divyanshu76/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+  </picture>
 
 </div>
 
@@ -574,7 +598,8 @@ open_to:
 
 - Project descriptions reflect development work and concepts discussed; not every project has a verified public repository.
 - GitHub analytics reflect the data available from GitHub and their respective widget services.
-- Contribution snake animation requires a separately configured GitHub Actions workflow.
+- The GitHub contribution calendar is the source of truth for annual contributions; commits and contributions are different metrics.
+- Contribution snake animation requires a configured GitHub Actions workflow that generates the SVG files in the `output` branch.
 - Certifications, awards, education details, and employment dates should be updated with verified information.
 - Add a resume link once a current public resume URL is available.
 
