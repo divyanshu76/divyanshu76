@@ -476,17 +476,23 @@ Additional coding profiles such as LeetCode, GeeksforGeeks, HackerRank, and Code
 <div align="center">
 
   <a href="https://github.com/divyanshu76">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=divyanshu76&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
+    <img
+      width="100%"
+      src="https://raw.githubusercontent.com/divyanshu76/divyanshu76/main/profile/trophy.svg"
+      alt="Divyanshu's GitHub Profile Trophies"
+    />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/divyanshu76?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+    <img
+      src="https://img.shields.io/badge/Explore-My%20Repositories-4338CA?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore repositories"
+    />
   </a>
 
 </div>
-
 ---
 
 ## 11. 📈 Contribution Activity
