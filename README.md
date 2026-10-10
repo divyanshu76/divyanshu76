@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
   </a>
 
-  <br/><br/>
+  <br/><br/> 
 
   <img src="https://komarev.com/ghpvc/?username=divyanshu76&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/divyanshu76?style=flat-square&color=4338CA&labelColor=18181B&label=FOLLOWERS" alt="GitHub followers"/>
